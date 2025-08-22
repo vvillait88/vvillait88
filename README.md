@@ -10,7 +10,7 @@
 - 🌐 [varun.villaits.com](https://varun.villaits.com)  
 - 📩 [vvillait88@gmail.com](mailto:vvillait88@gmail.com)  
 - 💬 [LinkedIn](https://linkedin.com/in/varunv88)  
-- 🐦 [Twitter / X](https://twitter.com/vvillait88)
+- X  [X](https://twitter.com/varunv_88)
 
 ---
 
