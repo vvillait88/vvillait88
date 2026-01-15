@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Varun Villait
 
 📍 Scottsdale, AZ  
-💼 Chief Product Officer @ [People Data Labs](https://www.peopledatalabs.com)  
+💼 Something New (Prev CPO @ People Data Labs)
 
 ---
 
