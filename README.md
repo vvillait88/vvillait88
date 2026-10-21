@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Varun Villait
 
 📍 Scottsdale, AZ  
-💼 Something New (Prev CPO @ People Data Labs)
+💼 Cofounder @ [AgentScore](https://www.agentscore.com) (Prev CPO @ People Data Labs)  
+🤖 Building [Hivemind](https://hivemind.agentscore.com): AI agents that do real work, with business expertise built in
 
 ---
 
