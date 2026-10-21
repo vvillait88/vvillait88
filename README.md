@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Varun Villait
 
 📍 Scottsdale, AZ  
-💼 Cofounder @ [AgentScore](https://www.agentscore.com) (Prev CPO @ People Data Labs)  
-🤖 Building [Hivemind](https://hivemind.agentscore.com): AI agents that do real work, with business expertise built in
+💼 Co-founder @ [AgentScore](https://www.agentscore.com) (Prev CPO @ People Data Labs)  
+🤖 Building [Hivemind](https://hivemind.agentscore.com): AI agents that do real work for companies
 
 ---
 
@@ -16,8 +16,8 @@
 
 ## 🚀 About Me
 
-Product & technology executive with 10+ years in data and fintech.  
-I build and scale B2B developer platforms, data infrastructure, and high-impact teams.
+I spent 15 years building data and fintech products, and now I build AI agents.  
+Before AgentScore I was Chief Product Officer at People Data Labs, where I created the JavaScript SDK and we grew the company from zero to mid-eight figures in revenue.
 
 ---
 
